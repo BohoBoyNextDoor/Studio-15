@@ -1,0 +1,16 @@
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.exe
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.deps.json
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.runtimeconfig.json
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.runtimeconfig.dev.json
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.dll
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\ref\Studio 15 the real one.dll
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\bin\Debug\net5.0\Studio 15 the real one.pdb
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.csproj.AssemblyReference.cache
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.AssemblyInfoInputs.cache
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.AssemblyInfo.cs
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.dll
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\ref\Studio 15 the real one.dll
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.pdb
+C:\Users\Tanner Martin\communication-log\Studio 15 the real one\Studio 15 the real one\obj\Debug\net5.0\Studio 15 the real one.genruntimeconfig.cache
