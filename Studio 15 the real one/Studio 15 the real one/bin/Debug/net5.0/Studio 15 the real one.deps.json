@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Studio 15 the real one/1.0.0": {
+        "runtime": {
+          "Studio 15 the real one.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Studio 15 the real one/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
